@@ -3,7 +3,6 @@ package modelo;
 public class Parqueadero {
 	public final static double TARIFA_HORA_MOTO  = 1000;
 	public final static double TARIFA_HORA_CARRO = 3500;
-	private String cambio;
 	
 	public final static String MOTO  = "Moto";
 	public final static String CARRO = "Carro";
